@@ -1,3 +1,6 @@
 /env
 env/
 docs/
+arquivos/
+recebidos/
+__pycache__/
